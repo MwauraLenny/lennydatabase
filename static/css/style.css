@@ -1,0 +1,16 @@
+.employeeform{
+    border-radius: 20px;
+    background-color: beige;
+    width: 50%;
+    color: white;
+    align-content: center;
+}
+
+h3{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Inconsolata';
+    color: crimson;
+
+}
+
